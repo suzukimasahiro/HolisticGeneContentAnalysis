@@ -1,0 +1,12 @@
+data: binary_seq.csv
+binseqmap: None
+label: None
+exclude_row: 
+include_row: 
+exclude_idx: 
+include_idx: 
+max: 0.9
+min: 0.1
+input size: (168, 3189)
+data size: (168, 1922)
+Variance ratio : 0.11493, 0.06086, 0.05801, 0.05067

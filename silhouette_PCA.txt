@@ -1,0 +1,53 @@
+This code performs K-means clustering on a given dataset and determines the optimal number of clusters using the silhouette score.
+sklearn_version=1.2.1
+numpy_version=1.23.5
+pandas_version=1.3.5
+matplot_version=1.23.5
+Data file: binary_seq_trimmed_PCA.csv
+Number of clusters: 3, Average silhouette score: 0.2955
+Number of clusters: 4, Average silhouette score: 0.3078
+Number of clusters: 5, Average silhouette score: 0.3278
+Number of clusters: 6, Average silhouette score: 0.3454
+Number of clusters: 7, Average silhouette score: 0.3552
+Number of clusters: 8, Average silhouette score: 0.3576
+Number of clusters: 9, Average silhouette score: 0.3577
+Number of clusters: 10, Average silhouette score: 0.3624
+Number of clusters: 11, Average silhouette score: 0.3673
+Number of clusters: 12, Average silhouette score: 0.3879
+Number of clusters: 13, Average silhouette score: 0.3951
+Number of clusters: 14, Average silhouette score: 0.3965
+Number of clusters: 15, Average silhouette score: 0.3999
+Number of clusters: 16, Average silhouette score: 0.4066
+Number of clusters: 17, Average silhouette score: 0.4072
+Number of clusters: 18, Average silhouette score: 0.4203
+Number of clusters: 19, Average silhouette score: 0.4138
+Number of clusters: 20, Average silhouette score: 0.4210
+Number of clusters: 21, Average silhouette score: 0.4170
+Number of clusters: 22, Average silhouette score: 0.4170
+Number of clusters: 23, Average silhouette score: 0.4154
+Number of clusters: 24, Average silhouette score: 0.4107
+Number of clusters: 25, Average silhouette score: 0.4071
+Number of clusters: 26, Average silhouette score: 0.4053
+Number of clusters: 27, Average silhouette score: 0.4016
+Number of clusters: 28, Average silhouette score: 0.4013
+Number of clusters: 29, Average silhouette score: 0.3975
+Number of clusters: 30, Average silhouette score: 0.3993
+Number of clusters: 31, Average silhouette score: 0.4016
+Number of clusters: 32, Average silhouette score: 0.4037
+Number of clusters: 33, Average silhouette score: 0.3938
+Number of clusters: 34, Average silhouette score: 0.3965
+Number of clusters: 35, Average silhouette score: 0.4016
+Number of clusters: 36, Average silhouette score: 0.3981
+Number of clusters: 37, Average silhouette score: 0.3998
+Number of clusters: 38, Average silhouette score: 0.3984
+Number of clusters: 39, Average silhouette score: 0.3981
+Number of clusters: 40, Average silhouette score: 0.3978
+Number of clusters: 41, Average silhouette score: 0.3999
+Number of clusters: 42, Average silhouette score: 0.4054
+Number of clusters: 43, Average silhouette score: 0.4022
+Number of clusters: 44, Average silhouette score: 0.3996
+Number of clusters: 45, Average silhouette score: 0.4023
+Number of clusters: 46, Average silhouette score: 0.4061
+Number of clusters: 47, Average silhouette score: 0.3984
+Number of clusters: 48, Average silhouette score: 0.4003
+Number of clusters: 49, Average silhouette score: 0.3972
