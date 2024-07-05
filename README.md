@@ -1,4 +1,3 @@
-```markdown
 # Clustering and Finding Data Closest to Cluster Center Protocol for "Predicting Pathogenicity of Klebsiella pneumoniae through Holistic Gene Content Analysis"
 
 ## Overview
@@ -44,5 +43,4 @@ Use `fig1.py` to draw Figure 1.
 
 ```sh
 fig1.py -d binary_seq_trimmed.csv -l fig1_cluster.csv
-```
 ```
